@@ -1,6 +1,6 @@
 
 
-## Pages on this Complete Free Template
+
 1. **index.html** - Home Page (Search Food, Some Categories, Featured Foods, Social Media link)
 2. **categories.html** - List all Categories on Single Page
 3. **foods.html** - List all foods on a single page
